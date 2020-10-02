@@ -4,6 +4,7 @@ Project allows user to generate a random password.
 User is able to select length of password from 8 to 128 characters.
 User can also choose between numbers, upper case, lower case and special characters.
 
+https://israelguillermo.github.io/03_password_generator/
 
 <<<<<<< HEAD
 =======
